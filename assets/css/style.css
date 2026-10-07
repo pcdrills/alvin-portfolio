@@ -84,3 +84,14 @@ img {
 	text-decoration: none;
 	text-transform: uppercase;
 }
+
+.footer{
+	font-size: small;
+	font-weight: bold;
+	color: gray;
+}
+
+.footer a {
+	color: white;
+	text-decoration: none;
+}
